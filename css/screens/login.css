@@ -20,12 +20,7 @@
   margin: 0px 30px;
 }
 
-.login-form__input {
-  border: none;
-  padding: 20px 0px;
-  font-size: 20px;
-  margin-bottom: 25px;
-}
+.login-form__input,
 .login-form__btn {
   border: none;
   padding: 20px 0px;
